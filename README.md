@@ -1,4 +1,5 @@
-# 🪐 Hey, eu sou aiko!
+# 🪐 Hey, eu sou o aiko!
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&vCenter=true&width=450&lines=Infiltrando+o+mainframe...;Compilando+o+universo...;Procrastinando+com+estilo..." alt="Typing SVG" />
 </p>
@@ -25,15 +26,15 @@
 ### 📊 Status do GitHub
 
 <p align="center">
-  <img height="167em" src="https://github-readme-stats.vercel.app/api?username=aikokadas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Status do GitHub" />
-  <img height="167em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aikokadas&layout=compact&langs_count=7&theme=tokyonight" alt="Linguagens mais usadas" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aikokadas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Status do GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aikokadas&layout=compact&langs_count=7&theme=tokyonight" alt="Linguagens mais usadas" />
 </p>
 
 ---
 
 ### 💬 Onde me encontrar
 <p align="left">
-  <a href="[https://discord.com/users/aiko.angelic](https://discord.com/users/aiko.angelic) target="_blank">
+  <a href="https://discord.com/users/aiko.angelic" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
